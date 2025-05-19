@@ -563,7 +563,11 @@ nav {
   .nav__menu__btn {
     display: none;
   }
-
+  
+  .nav__logo img {
+  max-width: 200px;
+  }
+  
   .nav__links {
     position: static;
     padding: 0;
