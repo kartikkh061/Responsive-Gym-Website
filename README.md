@@ -1,2 +1,2 @@
 # Gym Website
-Click here to visit the website 
+<a href="">Click here to visit the Gym Website</a>
